@@ -1,0 +1,1 @@
+Solve of stairs task.
